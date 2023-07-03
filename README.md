@@ -8,4 +8,4 @@
 </ol>
 
 ## MÔ HÌNH
-<img src="/Icon/banner.png" alt="use case system"/>
+<img src="/BG.png" alt="use case system"/>
